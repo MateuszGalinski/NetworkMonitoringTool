@@ -1,0 +1,5 @@
+group	hint
+1	switch ze scianki
+2	switch ze scianki
+3	switch ze scianki
+4	switch ze scianki

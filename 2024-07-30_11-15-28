@@ -1,0 +1,5 @@
+	vlan	mac address	type	ports	swt
+0	1	f8e4.3bcc.75eb	DYNAMIC	Gi1/1	SWITCH2
+0	1	001d.9cdd.9bbf	DYNAMIC	Fa1/7	SWITCH1
+1	1	e490.699d.c006	DYNAMIC	Fa1/7	SWITCH1
+2	1	f8e4.3bcc.7432	DYNAMIC	Gi1/1	SWITCH1
