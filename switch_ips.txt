@@ -1,5 +1,0 @@
-group	swt	ip
-1	SWITCH2	192.168.1.54
-2	RandomSwitch	192.168.1.55
-3	JustTest	192.168.1.56
-4	NotOK	192.168.1.57

@@ -1,2 +1,5 @@
-*.ipunb
+*.ipynb
 .venv
+*.csv
+*.txt
+*.docx
