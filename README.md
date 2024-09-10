@@ -17,13 +17,6 @@ This project is a Python tool for retrieving MAC address tables from network swi
 - `paramiko` library
 - `pandas` library
 
-## Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo/mac-address-table-retrieval.git
-   cd mac-address-table-retrieval
-
 ## Usage
 1. Prepare the switch groups file switch_groups.txt with the following tab-separated format:
 
